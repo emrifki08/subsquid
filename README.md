@@ -1,0 +1,2 @@
+# subsquid
+for test network
